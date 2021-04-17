@@ -328,3 +328,5 @@ dic/media/
 .ipython/
 .env
 .envs/*
+
+.vscode/
