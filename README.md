@@ -71,3 +71,4 @@ A simple telegram bot that gets two drug names and show a message if they intera
 - [Mohamed Mostafa](https://github.com/mmostafa74)
 - [Mohamed A Sattar](https://github.com/Mohamed-sattar)
 - [Mohamed Samy](https://github.com/MuhammadSamy1)
+- [Ziad Nabil](https://github.com/ziadnabil)
